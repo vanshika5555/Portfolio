@@ -48,8 +48,7 @@ This portfolio was built to:
 | Github | Linkdin | Contact |
 |----------|--------|---------|
 | ![image](https://github.com/user-attachments/assets/af6f2937-e905-4943-a414-0ed1f30a11b0) | ![image](https://github.com/user-attachments/assets/55f252eb-5e0a-4f7a-8e8f-2e59a9db9384) |
- ![image](https://github.com/user-attachments/assets/bdaef908-cea0-430f-be2d-e2df356a19fe) |
-| ![image](https://github.com/user-attachments/assets/e03acd2b-6f53-463f-84bb-da7e5cbd0848) |
+ ![image](https://github.com/user-attachments/assets/bdaef908-cea0-430f-be2d-e2df356a19fe) | ![image](https://github.com/user-attachments/assets/e03acd2b-6f53-463f-84bb-da7e5cbd0848) |
 
 ---
 
